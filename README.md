@@ -1,12 +1,9 @@
-# maruti-suzuki-equity-research
+# maruti-suzuki-Mini Equity Note: Margin Trend Analysis & Relative Valuation
 Independent equity research &amp; — B.Com student project, built stage-by-stage from historical financial analysis through valuation.
 # Maruti Suzuki Equity Research & Valuation
 
-Independent equity research on Maruti Suzuki 
-India Ltd (NSE: MARUTI), built as part of my B.Com (Hons.) coursework 
-at SRCC.
 
-**Status:** In progress — started [10th AUG'26] - Done[28th Aug'26]
+**Status:** completed — started [10th AUG'26] - Done[28th Aug'26]
 
 
 ## Planned scope
