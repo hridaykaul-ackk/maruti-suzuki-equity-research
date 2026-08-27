@@ -6,7 +6,8 @@ Independent equity research on Maruti Suzuki
 India Ltd (NSE: MARUTI), built as part of my B.Com (Hons.) coursework 
 at SRCC.
 
-**Status:** In progress — started [10th AUG'26]
+**Status:** In progress — started [10th AUG'26] - Done[28th Aug'26]
+
 
 ## Planned scope
 - Historical financial analysis (FY21–FY25)
