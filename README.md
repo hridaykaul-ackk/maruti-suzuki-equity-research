@@ -34,7 +34,7 @@ guessed at.
 - ✅ 5-year historical financials (FY22-FY26), standalone P&L
 - ✅ Revenue driver & margin waterfall analysis
 - ✅ Comparable company analysis (Tata Motors, M&M, Hyundai India) — in progress
-- ⬜ Investment thesis (1-2 pages)
+- ✅ Investment thesis (1-2 pages)
 
 ## Methodology notes
 - All figures are Standalone (not Consolidated), for consistency across years
